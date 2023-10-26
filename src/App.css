@@ -29,7 +29,7 @@ body.loaded::after {
   left: calc(50% - 50px);
   width: 100px;
   height: 100px;
-  background-image: url("./loader-icon.svg");
+  background-image: url("../loader-icon.svg");
   background-repeat: no-repeat;
   background-position: center;
   background-size: contain;
