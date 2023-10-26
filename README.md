@@ -1,12 +1,12 @@
 ## React custom hook useLoading
 
-#### `Demo:` https://dmitriyshkredov.github.io/react-use-loading/
+#### `Demo:` https://dmitriyshkredov.github.io/react-useloading/
 
 #### `Telegram:` [https://t.me/tipichnyj_web_razrabotchik](https://t.me/tipichnyj_web_razrabotchik)
 
 ---
 
-#### `git clone https://github.com/DmitriyShkredov/react-use-loading.git`
+#### `git clone https://github.com/DmitriyShkredov/react-useloading.git`
 
 #### `npm install`
 
