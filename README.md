@@ -4,6 +4,8 @@
 
 #### `Telegram:` [https://t.me/tipichnyj_web_razrabotchik](https://t.me/tipichnyj_web_razrabotchik)
 
+#### `YouTube:` [Как создать кастомный React JS Хук useLoading](https://youtube.com/shorts/0R_DxiZbQFk)
+
 ---
 
 #### `git clone https://github.com/DmitriyShkredov/react-useloading.git`
